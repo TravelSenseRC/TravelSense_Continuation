@@ -1,0 +1,19 @@
+// images_index.js
+export const profilePic = require('./Profile_Pic.jpg');
+export const bottomBar = require('./Bottom_Bar.jpg');
+export const destination = require('./Destination.jpg');
+export const hotelContainer = require('./Hotel_Container.jpg');
+export const locationAccess = require('./Location_Access.jpg');
+export const reviews = require('./Reviews.jpg');
+export const searchBar = require('./Search_Bar.jpg');
+export const tourRecommendation = require('./Tour_Recommendation.jpg');
+export const visaBanner = require('./Visa_Banner.jpg');
+export const itiPlan = require('./Iti_Plan.jpg');
+export const carRental = require('./Car_rental.jpg');
+export const taxiCab = require('./Taxi_Cab.jpg');
+export const pubBus = require('./Public_Bus.jpg');
+export const train = require('./Train.jpg');
+export const scooter = require('./Scooter.jpg');
+export const bicycle = require('./Bicycle.jpg');
+export const visaImage1 = require('./Visa_Image1.jpg');
+export const pdfIcon = require('./PDF_file_icon.jpg')
